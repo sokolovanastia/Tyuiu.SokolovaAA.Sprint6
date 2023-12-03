@@ -161,7 +161,7 @@ namespace Tyuiu.SokolovaAA.Sprint6.Task0.V5
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(192, 112);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(333, 44);
+            this.pictureBox1.Size = new System.Drawing.Size(370, 44);
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
             // 
