@@ -1,7 +1,7 @@
 ﻿using Tyuiu.SokolovaAA.Sprint6.Task4.V3.Lib;
 namespace Tyuiu.SokolovaAA.Sprint6.Task4.V3
 {
-    partial class Form1
+    partial class FormMain
     {
         /// <summary>
         /// Required designer variable.

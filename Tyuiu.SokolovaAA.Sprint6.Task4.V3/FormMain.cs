@@ -11,9 +11,9 @@ using Tyuiu.SokolovaAA.Sprint6.Task4.V3.Lib;
 using System.IO;
 namespace Tyuiu.SokolovaAA.Sprint6.Task4.V3
 {
-    public partial class Form1 : Form
+    public partial class FormMain : Form
     {
-        public Form1()
+        public FormMain()
         {
             InitializeComponent();
         }
